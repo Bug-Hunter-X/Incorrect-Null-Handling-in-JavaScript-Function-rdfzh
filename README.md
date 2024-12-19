@@ -1,0 +1,1 @@
+This repository contains a JavaScript code example demonstrating an uncommon error related to null handling.  The `foo` function incorrectly returns 0 when either input `a` or `b` is null. The correct behavior should be returning `undefined` in this case.  The `bug.js` file shows the buggy code, and the `bugSolution.js` file provides the corrected version.
